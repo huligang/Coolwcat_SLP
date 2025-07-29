@@ -1,0 +1,22 @@
+{
+  "repository_name": "酷玩猫",
+  "repository_icon": "https://yoursite.com/repo-icon.png",
+  "packages": [
+    {
+      "name": "测试“,
+      "version": "v1.0.0",
+      "description": "这是一个测试介绍信息”,
+      "app_url": "https://repo.coolwcat.wang/dow/1.ipa",
+      "bundle": "",
+      "icon_url": "https://yoursite.com/icons/package-icon.png",
+      "dylib": "https://yoursite.com/downloads/package.dylib",
+      "section": "قسم الحزمه",
+      "size": "12MB",
+      "author": "酷玩猫",
+      "screenshots": [
+        "https://yoursite.com/screenshots/screenshot1.png",
+        "https://yoursite.com/screenshots/screenshot2.png"
+      ]
+    }
+  ]
+}

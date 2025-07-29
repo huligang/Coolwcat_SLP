@@ -1,6 +1,6 @@
 {
   "repository_name": "酷玩猫",
-  "repository_icon": "https://yoursite.com/repo-icon.png",
+  "repository_icon": "https://github.com/huligang/CoolWcat_LSP/raw/main/repo-icon.png",
   "packages": [
     {
       "name": "测试“,

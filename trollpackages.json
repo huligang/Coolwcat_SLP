@@ -7,10 +7,10 @@
       "version": "v1.0.0",
       "description": "这是一个测试介绍信息”,
       "app_url": "https://repo.coolwcat.wang/dow/1.ipa",
-      "bundle": "",
+      "bundle": "test",
       "icon_url": "https://yoursite.com/icons/package-icon.png",
       "dylib": "https://yoursite.com/downloads/package.dylib",
-      "section": "قسم الحزمه",
+      "section": "test",
       "size": "12MB",
       "author": "酷玩猫",
       "screenshots": [
